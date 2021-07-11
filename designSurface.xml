@@ -1,0 +1,11 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ricar/AndroidStudioProjects/HolaMundo/app/src/main/res/layout/activity_main.xml" value="0.253125" />
+        <entry key="..\:/Users/ricar/AndroidStudioProjects/HolaMundo/app/src/main/res/layout/content_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/ricar/AndroidStudioProjects/HolaMundo/app/src/main/res/layout/fragment_first.xml" value="0.8" />
+      </map>
+    </option>
+  </component>
+</application>
